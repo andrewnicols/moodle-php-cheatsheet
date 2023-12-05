@@ -17,9 +17,9 @@ This is not intended to be an exhaustive list, but if you'd like to add to it, p
 | Moodle dev | | | |  | x | x | x | x |
 | PHP | 7.2 | 7.3 | 7.4 | 8.0 | 8.1 | 8.2 | 8.3 | 8.4 |
 | [Type Declarations](https://stitcher.io/blog/typed-properties-in-php-74) |
+| `void` | x | x | x | x | x | x | x | x | x | x | x |
 | Typed properties | | | x | x | x | x | x | x | x | x|
 | Union types | | | | x | x | x | x | x | x | x | x |
-| `void` | x | x | x | x | x | x | x | x | x | x | x |
 | `mixed` | | | | x | x | x | x | x | x | x | x |
 | `never` | | | | | x | x | x | x | x | x | x |
 | Intersection types | | | | | x | x | x | x | x | x | x |
